@@ -9,7 +9,7 @@ Aunque la idea es genérica para cualquier dataset, todos los ejemplos y pruebas
 
 ## Resultados
 
-Hasta ahora el mejor modelo que he entrenado obtiene una puntuación de 0.88765
+Hasta ahora el mejor modelo que he entrenado obtiene una puntuación de 0.89651, mejorando ligeramente la mejor puntuación del paper original.
 
 
 ## Bibliografía
