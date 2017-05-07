@@ -14,4 +14,4 @@ Hasta ahora el mejor modelo que he entrenado obtiene una puntuación de 0.88765
 
 ## Bibliografía
 
-* [Sentiment analysis of users' reviews and comments]()http://cs229.stanford.edu/proj2012/ChakankarVenuturimilliMathur-SentimentAnalysis.pdf
+* [Sentiment analysis of users' reviews and comments](http://cs229.stanford.edu/proj2012/ChakankarVenuturimilliMathur-SentimentAnalysis.pdf)
